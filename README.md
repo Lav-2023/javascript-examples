@@ -1,5 +1,7 @@
 # DOM Methods
 
+This exercise is part of 'The Odin Project'.
+
 Add the following elements to the container using ONLY JavaScript and the DOM methods:
 
     1. a <p> with red text that says “Hey I’m red!”
